@@ -22,8 +22,8 @@ const Menu = () => {
     <StyledMenu>
       <Nav>
         <Logo>
-          <Image src="/b2match-logo.png" width="75" height="75" alt="logo" />
-          <h1>b2match</h1>
+          <Image src="/favicon.ico" width="60" height="60" alt="logo" />
+          <h1>calendar</h1>
         </Logo>
 
         <Content>

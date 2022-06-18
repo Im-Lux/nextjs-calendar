@@ -24,7 +24,8 @@ export const Nav = styled.nav`
 export const Logo = styled.div`
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 1rem;
+  padding-left: 1rem;
 
   h1 {
     font-size: 1.5rem;
