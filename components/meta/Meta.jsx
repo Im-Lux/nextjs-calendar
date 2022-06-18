@@ -14,9 +14,9 @@ const Meta = ({ title, keywords, description }) => {
 };
 
 Meta.defaultProps = {
-  title: "b2match Calendar",
-  keywords: "b2match, events, calendar",
-  description: "Manage your events in this calendar",
+  title: "Commits Calendar",
+  keywords: "commits, events, calendar",
+  description: "Manage your commit events in this calendar",
 };
 
 export default Meta;
